@@ -2,7 +2,7 @@
 
 包括`dubbo-admin`和`xiceos-dubbo`工程
 
-#dubbo-admin(旧版本集成)
+# dubbo-admin(旧版本集成)
 ## 运行方法
 
 > 01.导入项目到IDEA
