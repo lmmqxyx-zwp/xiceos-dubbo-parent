@@ -55,6 +55,11 @@
 				<artifactId>xd-interface</artifactId>
 				<version>${xd.version}</version>
 			</dependency>
+			<dependency>
+				<groupId>top.by.xiceos</groupId>
+				<artifactId>xd-service</artifactId>
+				<version>${xd.version}</version>
+			</dependency>
 			<!-- https://mvnrepository.com/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.1-api -->
 			<dependency>
 				<groupId>org.hibernate.javax.persistence</groupId>
